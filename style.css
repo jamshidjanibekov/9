@@ -9,6 +9,7 @@
     height: 100vh;
     background: linear-gradient(45deg, #22046b, #e14e42);
     position: relative;
+    transition: .5s ease all;
 }
 .container-fluid{
     width: 600px;
